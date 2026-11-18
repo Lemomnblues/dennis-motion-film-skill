@@ -1,6 +1,6 @@
 # 从 LHH 工程改一支新片
 
-此处路径相对于新建的影片工程。公开示例保留第七版的 13 镜、1,985 帧和五个声画确认点。音乐按原分镜拍点重新合成，团队展示使用四张编号卡。查看 [示例视频](../assets/examples/lhh-demo.mp4) 或 [全片分镜接触表](../assets/examples/lhh-contact.jpg)。
+此处路径相对于新建的影片工程。公开示例保留第七版的 13 镜、1,985 帧和五个声画确认点。样片使用项目配乐《Vibe知识大赏》和原片混音，团队展示使用四张编号卡。查看 [示例视频](../assets/examples/lhh-demo.mp4) 或 [全片分镜接触表](../assets/examples/lhh-contact.jpg)。
 
 ## 修改位置
 
@@ -26,7 +26,7 @@
 
 ## 更换音乐
 
-示例不需另找配乐。`npm run render` 在首次运行时通过 `scripts/demo-score.mjs` 按分镜帧号合成鼓点和低音，然后由 `scripts/mix-cues.py` 生成五次提示音。已有 `assets/soundtrack.wav` 时会使用该文件。
+新建工程自带可生成的节奏配乐。`npm run render` 在首次运行时通过 `scripts/demo-score.mjs` 按分镜帧号合成鼓点和低音，然后由 `scripts/mix-cues.py` 生成五次提示音。已有 `assets/soundtrack.wav` 时会使用该文件。
 
 替换配乐时，将已剪好的音乐导出为 48 kHz、双声道、16-bit PCM WAV，放入 `assets/soundtrack.wav`。时长须与 `analysis/ending.json` 对齐。保留原速时，先选可用小节，再选同拍位置衔接尾奏。固定片长与完整小节有冲突时，按简报对音乐速度和尾段做取舍。
 
