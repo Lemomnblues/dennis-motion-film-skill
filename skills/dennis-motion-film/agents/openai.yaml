@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dennis 动态宣传片"
+  short_description: "复用 LHH 分镜、音乐卡点和镜头库，制作可编辑的品牌宣传片"
+  default_prompt: "用 $dennis-motion-film 根据我的品牌资料和音乐制作一支动态宣传片，交付 MP4 和可编辑工程。"

@@ -1,0 +1,6 @@
+[
+  {"name": "咨询一组", "role": "政策检索", "color": "#7856a4", "image": null},
+  {"name": "咨询二组", "role": "案例研究", "color": "#386398", "image": null},
+  {"name": "咨询三组", "role": "材料整理", "color": "#4e8081", "image": null},
+  {"name": "咨询四组", "role": "人工咨询", "color": "#77538c", "image": null}
+]

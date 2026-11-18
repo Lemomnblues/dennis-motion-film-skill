@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+skills/dennis-motion-film/assets/lhh-film/render3d/
+skills/dennis-motion-film/assets/lhh-film/previews*/
+skills/dennis-motion-film/assets/lhh-film/output/
+skills/dennis-motion-film/assets/lhh-film/index.html
+skills/dennis-motion-film/assets/lhh-film/assets/*.wav
+skills/dennis-motion-film/assets/lhh-film/analysis/mix-review.json
+skills/dennis-motion-film/assets/lhh-film/analysis/kinetic-cues.json
+skills/dennis-motion-film/assets/lhh-film/analysis/employment-cues.json

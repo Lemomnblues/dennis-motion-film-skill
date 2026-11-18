@@ -1,0 +1,80 @@
+[
+  {
+    "title": "品牌开场",
+    "firstFrame": 0,
+    "endExclusive": 150,
+    "detail": "终端光标转为紫色纵深 LHH，与 FESCO 一起落位。"
+  },
+  {
+    "title": "动态标语",
+    "firstFrame": 150,
+    "endExclusive": 301,
+    "detail": "Here → for you → 让用工问题 → 有 → 据 → 可 → 循，收成「有据可循」。"
+  },
+  {
+    "title": "试用期考核",
+    "firstFrame": 301,
+    "endExclusive": 397,
+    "detail": "从一份 HR 的试用期考核记录切入，把具体情境带入下一镜的提问。"
+  },
+  {
+    "title": "提问与检索",
+    "firstFrame": 397,
+    "endExclusive": 509,
+    "detail": "输入「试用期能否随意辞退员工？」。终端查找相关条款。"
+  },
+  {
+    "title": "一条答复，可查依据",
+    "firstFrame": 509,
+    "endExclusive": 636,
+    "detail": "五张三维蓝色玻璃片沿轴分层，对应问题、回答、法规、案例和人工咨询。"
+  },
+  {
+    "title": "咨询前，理清事实",
+    "firstFrame": 636,
+    "endExclusive": 748,
+    "detail": "局部故障字槽逐项呈现录用条件、考核记录、沟通时间、待问事项。"
+  },
+  {
+    "title": "高频用工场景",
+    "firstFrame": 748,
+    "endExclusive": 875,
+    "detail": "试用期管理、薪酬与加班、劳动关系解除三个主题收成「有据可循」，两个入口展开。"
+  },
+  {
+    "title": "法律法规库 · 案例库",
+    "firstFrame": 875,
+    "endExclusive": 987,
+    "detail": "对开资料册。左侧按《劳动合同法》条号定位，右侧用公开案例「拒绝违法加班被辞退」对照解除理由和录用条件。"
+  },
+  {
+    "title": "依据汇流 · 咨询摘要",
+    "firstFrame": 987,
+    "endExclusive": 1290,
+    "detail": "问题描述、法规依据、相关案例沿支流进入同一主线。汇聚成可阅读的咨询摘要，用户可选择转人工咨询。"
+  },
+  {
+    "title": "法律及咨询顾问团队",
+    "firstFrame": 1290,
+    "endExclusive": 1465,
+    "detail": "四张团队编号卡跟随拍点依次出现，最后一组进入选中状态。"
+  },
+  {
+    "title": "三步开始咨询",
+    "firstFrame": 1465,
+    "endExclusive": 1592,
+    "detail": "三张卡在斜俯桌面轮流抬升、落影。「打开微信小程序」「注册账户」完成后，第三张「用工问题 直接问」悬起。"
+  },
+  {
+    "title": "立即咨询",
+    "firstFrame": 1592,
+    "endExclusive": 1704,
+    "detail": "从品牌行动号召进入提问，提交后的界面反馈衔接白色品牌定版。"
+  },
+  {
+    "title": "品牌定版",
+    "firstFrame": 1704,
+    "endExclusive": 1985,
+    "detail": "白底品牌落位，外圈旋转并随片尾音乐渐缓。"
+  }
+]

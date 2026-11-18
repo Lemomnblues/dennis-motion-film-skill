@@ -1,0 +1,10 @@
+{
+  "fps": 30,
+  "events": [
+    {"id":"analysis-done","label":"条款分析完成","frame":493,"tone":"scan"},
+    {"id":"summary-ready","label":"依据汇成咨询摘要","frame":1114,"tone":"summary"},
+    {"id":"miniapp-open","label":"打开小程序，第一张卡片落位","frame":1497,"tone":"check1"},
+    {"id":"account-ready","label":"账户注册，第二张卡片落位","frame":1529,"tone":"check2"},
+    {"id":"question-sent","label":"提交用工提问","frame":1656,"tone":"submit"}
+  ]
+}
